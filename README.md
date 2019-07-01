@@ -1,0 +1,2 @@
+# SALES_WIN_OR_LOSS
+This dataset contains the information about the sales about particular products and seller, region, price, etc.., based on these features we have to predict the outcome that is opportunity result(won/loss). This dataset is useful to check the profits, losses, traffic from different countries, etc.., The main theme of this project is to get the optimal benifit or profit and won or loss
